@@ -1,0 +1,4 @@
+C:\GL\Project\x64\Debug\Project.exe
+C:\GL\Project\x64\Debug\Project.pdb
+C:\Users\arisg\OneDrive\Υπολογιστής\Cs UoI\7ο Εξάμηνο\Γραφικά\project 2020-2021\Project\x64\Debug\Project.exe
+C:\Users\arisg\OneDrive\Υπολογιστής\Cs UoI\7ο Εξάμηνο\Γραφικά\project 2020-2021\Project\x64\Debug\Project.pdb
